@@ -1,4 +1,4 @@
-# CryptoLogCollector
+# Crypto Log Collector
 
 A lightweight Security Information and Event Management (SIEM) tool built for tracking and visualizing live cryptocurrency prices from Coinbase using their public API. This system alerts on significant price changes, classifies severity, and displays everything on an interactive Streamlit dashboard.
 
